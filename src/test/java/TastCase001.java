@@ -1,0 +1,2 @@
+public class TastCase001 {
+}
